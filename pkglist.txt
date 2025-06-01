@@ -1,5 +1,6 @@
 brave-browser
 discord
+foundry
 gather
 goenv
 keepassxc
