@@ -3,6 +3,8 @@ discord
 gather
 keepassxc
 lm-studio
+pyenv openssl readline sqlite3 xz zlib tcl-tk@8 libb2
+pyenv-virtualenv
 stow
 tmux
 visual-studio-code
