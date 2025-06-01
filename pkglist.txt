@@ -6,6 +6,7 @@ keepassxc
 lm-studio
 pyenv openssl readline sqlite3 xz zlib tcl-tk@8 libb2
 pyenv-virtualenv
+rustup
 stow
 tmux
 visual-studio-code
