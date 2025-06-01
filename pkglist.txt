@@ -5,6 +5,7 @@ gather
 goenv
 keepassxc
 lm-studio
+nvm
 pyenv openssl readline sqlite3 xz zlib tcl-tk@8 libb2
 pyenv-virtualenv
 rustup
