@@ -1,6 +1,7 @@
 brave-browser
 discord
 gather
+goenv
 keepassxc
 lm-studio
 pyenv openssl readline sqlite3 xz zlib tcl-tk@8 libb2
