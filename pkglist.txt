@@ -1,3 +1,8 @@
 brave-browser
+discord
+gather
 keepassxc
+lm-studio
 stow
+tmux
+visual-studio-code
