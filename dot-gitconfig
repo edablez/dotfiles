@@ -1,0 +1,9 @@
+[commit]
+    verbose = true
+[core]
+    excludesFile = ~/.gitignore
+[init]
+    defaultBranch = main
+[user]
+    email = edward@able.xyz
+    name = edablez
