@@ -1,8 +1,5 @@
 brave-browser
 discord
-docker
-docker-buildx
-docker-compose
 foundry
 gather
 goenv
