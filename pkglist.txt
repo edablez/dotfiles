@@ -1,5 +1,8 @@
 brave-browser
 discord
+docker
+docker-buildx
+docker-compose
 foundry
 gather
 goenv
@@ -11,4 +14,5 @@ pyenv-virtualenv
 rustup
 stow
 tmux
+tree
 visual-studio-code
