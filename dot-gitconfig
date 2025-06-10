@@ -2,6 +2,7 @@
     verbose = true
 [core]
     excludesFile = ~/.gitignore
+	editor = code -w
 [init]
     defaultBranch = main
 [user]
