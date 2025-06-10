@@ -4,6 +4,7 @@
 .vscode/
 node_modules/
 tmp/
+.continue/
 
 # General
 .DS_Store
