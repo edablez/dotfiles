@@ -1,5 +1,6 @@
 .envrc
 .python-version
+.go-version
 
 .vscode/
 node_modules/
